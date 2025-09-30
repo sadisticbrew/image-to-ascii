@@ -1,6 +1,6 @@
-# Image to ASCII Art Converter 🖼️ -\> 📝
+# Image to ASCII Art Converter
 
-Ever wanted to see what your favorite pictures would look like if they were made entirely of text? Well, you're in the right place\! This is a simple Python script that takes any image file and converts it into some seriously cool ASCII art.
+This is a simple Python script that takes any image file and converts it into some seriously cool ASCII art.
 
 ## How It Works
 
